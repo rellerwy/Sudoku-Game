@@ -1,5 +1,8 @@
 Wyatt Reller, Sudoku Puzzle Game, 1/22/2021
 
+To play the game. Download and Extract the .zip file. Python 3.9 or higher,
+and the Pygame library are required.
+
 This is my Sudoku Puzzle Game. I made it using Python's pygame library. All of
 the .PNG files were made by me. This project took me about 20 ish hours to 
 complete. Probably more hours than it should have, but trying to (correctly) 
